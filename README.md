@@ -4,3 +4,7 @@ To achieve this,one has to go through the data for anomalies and missing data an
 Perform univariate,bi variate and multivariate analysis
 Preform PCA to get the get the varables that mostly vary/affect/determine whether one has a bank account or not 
 Draw a conclusion
+
+From the data from the two countries it can be concluded that.
+1.An individual in Kenya is more likely to open a bank account than in Uganda
+2.An individual in an urban settng is more likely to open a bank account
